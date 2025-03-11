@@ -34,7 +34,6 @@ Translated with DeepL.com (free version)
 </body>
 </html>
 
-<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
