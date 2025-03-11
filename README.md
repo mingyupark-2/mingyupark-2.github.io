@@ -50,24 +50,51 @@ http://en.wikipedia.org/wiki/Web_development
             <tr>
                 <th>일자</th>
                 <th>일정</th>
+                <th>관람 내용</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>1일차</td>
                 <td>영국 해리포터 성 방문</td>
+                <td>
+                    <ul>
+                        <li>움직이는 계단체험</li>
+                        <li>버터맥주 먹기</li>
+                        <li>해리포터 성 축소 모형 관람</li>
+                    </ul>
+                </td>
             </tr>
             <tr>
                 <td>2일차</td>
                 <td>타워 브릿지, 그리니치 천문대, 토트넘 핫스퍼 스타디움</td>
+                <td>
+                    <ul>
+                        <li>타워 브릿지에서 사진 촬영</li>
+                        <li>그리니치 천문대에서 본초 자오선 관람</li>
+                        <li>토트넘 구장 안 관람</li>
+                    </ul>
+                </td>
             </tr>
             <tr>
                 <td>3일차</td>
                 <td>프랑스 에펠탑, 개선문</td>
+                <td>
+                    <ul>
+                        <li>에펠탑 구경과 사진 촬영</li>
+                        <li>개선문 전망대에 올라가서 파리의 야경 구경</li>
+                    </ul>
+                </td>
             </tr>
             <tr>
                 <td>4일차</td>
                 <td>루브르 박물관, 몽생미셸</td>
+                <td>
+                    <ul>
+                        <li>루브르 박물관에서 모나리자 등 다양한 그림 작품 구경</li>
+                        <li>몽생미셸의 야경 관람</li>
+                    </ul>
+                </td>
             </tr>
         </tbody>
     </table>
