@@ -112,7 +112,7 @@ Translated with DeepL.com (free version)
             <p><strong>일정:</strong> 해리포터 스튜디오 방문</p>
         </div>
         <div class="column">
-            <img src="(https://img1.daumcdn.net/thumb/R750x0/scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyhgTj%2FbtrU1M1eCbz%2FTBWWPALrpP1h9jl7Wguos1%2Fimg.png)" />
+            <img src="https://d2mgzmtdeipcjp.cloudfront.net/files/good/2023/10/16/16974531732335.jpg?s=360x360&t=outside" alt="해리포터 성" width="400"/>
         </div>
     </div>
 
