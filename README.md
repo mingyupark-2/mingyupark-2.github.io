@@ -129,7 +129,6 @@ Translated with DeepL.com (free version)
         </div>
          <img src="https://d1blyo8czty997.cloudfront.net/tour-photos/13948/800x800/3084267574.jpg" alt="토트넘 핫스퍼 스타디움" width="400"/>
         </div>
-    </div>
 
     <!-- 3일차 -->
     <div class="container">
