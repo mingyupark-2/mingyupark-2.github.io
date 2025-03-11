@@ -13,15 +13,6 @@ Hello everyone, thank you very much for reading my travel posts. I'm going to te
 
 Translated with DeepL.com (free version)
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>여행 일정</title>
-</head>
-<body>
-
     <h1>여행 일정</h1>
 
     <ul>
@@ -34,15 +25,7 @@ Translated with DeepL.com (free version)
 </body>
 </html>
 
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>여행 내용</title>
-</head>
-<body>
-
-    <h1>여행 일정</h1>
+    <h1>여행 내용</h1>
 
     <table border="1">
         <thead>
