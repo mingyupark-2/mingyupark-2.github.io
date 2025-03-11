@@ -123,7 +123,7 @@ Translated with DeepL.com (free version)
             <p><strong>일정:</strong> 타워 브릿지, 그리니치 천문대, 토트넘 핫스퍼 스타디움</p>
         </div>
         <div class="column">
-            <img src="https://example.com/tower_bridge.jpg" alt="타워 브릿지" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0Veh9LtVjOxT1R-QFnus7JNmNVR3aarelA&s" alt="타워 브릿지" width="400"/>
         </div>
     </div>
 
