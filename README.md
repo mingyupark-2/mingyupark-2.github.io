@@ -141,7 +141,6 @@ Translated with DeepL.com (free version)
         </div>
         <img src="https://t1.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/7hzh/image/rnz-rPw6O8h0Uqm93MzK_D8pOJU.jpg" alt="개선문" width="400"/>
         </div>
-    </div>
 
     <!-- 4일차 -->
     <div class="container">
@@ -154,7 +153,6 @@ Translated with DeepL.com (free version)
         </div>
          <img src="https://i.namu.wiki/i/YnUWvvvhEZrSWbqvPn994VfPb4HgvuUK_zDszN8QPyhjxSpq2VwbfeV5CHD6UQxQo8EI9sThT_ta_SXnD0SDAA.webp" alt="몽생미셸" width="400"/>
         </div>
-    </div>
 
 </body>
 </html>
