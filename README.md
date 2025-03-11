@@ -14,127 +14,112 @@
 http://en.wikipedia.org/wiki/Web_development
 
 <!DOCTYPE html>
-<html>
-<body>
-
-<h2>An Unordered HTML List</h2>
-
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
-<h2>An Ordered HTML List</h2>
-
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol> 
-
-<!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>여행 일정</title>
 </head>
 <body>
 
-<h2>HTML Table</h2>
+    <h1>여행 일정</h1>
 
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-</table>
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Two Equal Columns</h2>
-
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
+    <ul>
+        <li><strong>1일차:</strong> 영국 해리포터 성 방문</li>
+        <li><strong>2일차:</strong> 타워 브릿지, 그리니치 천문대, 토트넘 핫스퍼 스타디움</li>
+        <li><strong>3일차:</strong> 프랑스 에펠탑, 개선문</li>
+        <li><strong>4일차:</strong> 루브르 박물관, 몽생미셸</li>
+    </ul>
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>여행 일정</title>
+</head>
+<body>
+
+    <h1>여행 일정</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>일자</th>
+                <th>일정</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1일차</td>
+                <td>영국 해리포터 성 방문</td>
+            </tr>
+            <tr>
+                <td>2일차</td>
+                <td>타워 브릿지, 그리니치 천문대, 토트넘 핫스퍼 스타디움</td>
+            </tr>
+            <tr>
+                <td>3일차</td>
+                <td>프랑스 에펠탑, 개선문</td>
+            </tr>
+            <tr>
+                <td>4일차</td>
+                <td>루브르 박물관, 몽생미셸</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>여행 일정</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .column {
+            width: 45%;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>여행 일정</h1>
+
+    <div class="container">
+        <div class="column">
+            <h2>1일차 - 영국</h2>
+            <p>해리포터 성 방문</p>
+        </div>
+        <div class="column">
+            <h2>2일차 - 영국</h2>
+            <p>타워 브릿지, 그리니치 천문대, 토트넘 핫스퍼 스타디움</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="column">
+            <h2>3일차 - 프랑스</h2>
+            <p>에펠탑, 개선문</p>
+        </div>
+        <div class="column">
+            <h2>4일차 - 프랑스</h2>
+            <p>루브르 박물관, 몽생미셸</p>
+        </div>
+    </div>
+
+</body>
+</html>
+
