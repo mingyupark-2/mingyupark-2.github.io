@@ -125,6 +125,8 @@ Translated with DeepL.com (free version)
         <div class="column">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0Veh9LtVjOxT1R-QFnus7JNmNVR3aarelA&s" alt="타워 브릿지" width="400"/>
         </div>
+        <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA5MTRfNCAg/MDAxNjAwMDc3NzY2ODY3.OfQ7VW57YO915LjvftQT7a4eLA_zt9xw6x4OI952qLQg.a3WGnFTM515p34GY4TxZUHoLtELZB1hpjEbG9O18fd0g.JPEG.kty3556/ss03-%EB%B3%B8%EC%B4%88%EC%9E%90%EC%98%A4%EC%84%A0.jpg?type=w800" alt="그리니치 천문대" width="400"/>
+        </div>
     </div>
 
     <!-- 3일차 -->
