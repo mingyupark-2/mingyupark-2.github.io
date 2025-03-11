@@ -114,7 +114,6 @@ Translated with DeepL.com (free version)
         <div class="column">
             <img src="https://d2mgzmtdeipcjp.cloudfront.net/files/good/2023/10/16/16974531732335.jpg?s=360x360&t=outside" alt="해리포터 성" width="400"/>
         </div>
-    </div>
 
     <!-- 2일차 -->
     <div class="container">
