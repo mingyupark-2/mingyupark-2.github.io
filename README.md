@@ -138,7 +138,9 @@ Translated with DeepL.com (free version)
             <p><strong>일정:</strong> 에펠탑, 개선문</p>
         </div>
         <div class="column">
-            <img src="https://example.com/eiffel_tower.jpg" alt="에펠탑" />
+       <img src="https://i.namu.wiki/i/yF485NWCazWq7Zd52f5DzchphPkZ4VGVZXkx57AHIygI_GHgHLQnAa2zVJXZ_hxnid6NA09bKhxSc2FeLguNzw.webp" alt="에펠탑" width="400"/>
+        </div>
+        <img src="https://t1.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/7hzh/image/rnz-rPw6O8h0Uqm93MzK_D8pOJU.jpg" alt="개선문" width="400"/>
         </div>
     </div>
 
@@ -149,7 +151,9 @@ Translated with DeepL.com (free version)
             <p><strong>일정:</strong> 루브르 박물관, 몽생미셸</p>
         </div>
         <div class="column">
-            <img src="https://example.com/mont_saint_michel.jpg" alt="몽생미셸" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGb0lcYWQW8TLmfssRhwxE6pEBinO0vcXiVQ&s" alt="루브르 박물관" width="400"/>
+        </div>
+         <img src="https://i.namu.wiki/i/YnUWvvvhEZrSWbqvPn994VfPb4HgvuUK_zDszN8QPyhjxSpq2VwbfeV5CHD6UQxQo8EI9sThT_ta_SXnD0SDAA.webp" alt="몽생미셸" width="400"/>
         </div>
     </div>
 
