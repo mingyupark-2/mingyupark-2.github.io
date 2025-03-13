@@ -5,4 +5,4 @@
 
 [**homework2-2**](https://mingyupark-2.github.io/homework2-2.html)
 
-[**css_html**](https://mingyupark-2.github.io/css_html.css)
+[**css_demo.html**](https://mingyupark-2.github.io/css_demo.html)
