@@ -1,42 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulk Up Workout and Diet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff; /* White background */
+        }
+        .container {
+            display: flex;
+            margin: 20px;
+        }
+        .content, .sidebar {
+            flex: 1;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
-
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
+    <div class="container">
+        <!-- Left Column: Workout -->
+        <div class="content">
+            <h2>Workout</h2>
+            <p>Bulking workouts need to be high-intensity, incorporating weight training and compound exercises. Gradually increasing the weight will provide continuous muscle stimulation, promoting growth. Compound exercises like squats, bench presses, and deadlifts engage multiple muscle groups and promote calorie burn and muscle development. Adequate rest after exercise is also crucial for muscle recovery.</p>
+        </div>
+        
+        <div class="sidebar">
+            <h2>Diet</h2>
+            <p>A bulking diet should focus on high-calorie, high-protein foods to provide the energy and nutrients necessary for muscle growth. After workouts, it’s important to consume a combination of protein and carbohydrates for recovery. Protein is essential for muscle repair and growth, aiming for 1.6–2.2g of protein per kg of body weight. Carbohydrates fuel your workouts, and fats support hormonal balance. A balanced diet of healthy foods is key to avoiding excessive fat gain.</p>
+        </div>
+    </div>
 
 </body>
 </html>
