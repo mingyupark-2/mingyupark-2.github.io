@@ -77,6 +77,9 @@ function showInputs(shape) {
     let html = '';
     switch(shape) {
         case 'triangle':
+            html += '<label>밑변 (width): <input type="number" name="width" required></label>';
+            html += '<label>높이 (height): <input type="number" name="height" required></label>';
+            break;
         case 'rectangle':
             html += '<label>가로 (width): <input type="number" name="width" required></label>';
             html += '<label>세로 (height): <input type="number" name="height" required></label>';
