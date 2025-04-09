@@ -12,3 +12,7 @@
 [**css_demo.html**](https://mingyupark-2.github.io/css_demo.html)
 
 [**homework3-1**](homework3-1.jpg)
+
+[**homework3-2**](homework3-2.jpg)
+
+[**homework3-3**](homework3-3.jpg)
