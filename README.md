@@ -16,3 +16,7 @@
 [**homework3-2**](homework3-2.jpg)
 
 [**homework3-3**](homework3-3.jpg)
+
+[**homework3-4**](homework3-4.jpg)
+
+[**homework3-5**](homework3-5.jpg)
